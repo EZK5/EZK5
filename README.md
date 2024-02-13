@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # 💫 About Me
 🔭 I’m currently working on refining my skills as a programmer by creating my own side-projects and studying at University. This trimester, I am studying Front-End Programming, Algorithms and Programming Techniques and Higher Several Variable Calculus. In my spare time, I am working towards learning mobile development skills through a mobile Pomodoro app project, whilst also constructing a trend projector for NBA fantasy using Python and Selenium.<br><br>💬 Ask me about anything! I love to meet new people and hear what interesting stories or wisdom you have to share.<br><br>⚡ Fun fact: if you don’t catch me coding or learning, you will probably find me in the gym, watching basketball or playing poker with friends 🤣.<br>
 
